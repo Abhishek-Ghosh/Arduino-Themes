@@ -30,5 +30,5 @@ I have not created the themes. I only collected them for personal usage.
 Most are from Arduino Forum, few are from Github. The theme directories 
 are named with AuthorName--ThemeName convention. 
 
-- (Jeff Thompson)[https://github.com/jeffThompson/DarkArduinoTheme]
-- (technobly)[https://github.com/technobly/MonokaiArduinoTheme]
+- [Jeff Thompson](https://github.com/jeffThompson/DarkArduinoTheme)
+- [technobly](https://github.com/technobly/MonokaiArduinoTheme)
