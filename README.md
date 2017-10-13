@@ -9,6 +9,10 @@ DarkIce :
 
 ![ArduinoThemes2](https://raw.githubusercontent.com/AbhishekGhosh/Arduino-Themes/master/Venom791-DarkIce/screenshot.PNG)
 
+DarkArduino :
+
+![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+
 
 #### Installation
 - Back up your current theme by rename the folder **{Arduino IDE 
